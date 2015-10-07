@@ -1,0 +1,18 @@
+#!/bin/bash                                                                                                     
+
+#organic molecule
+molecule=MA
+
+#metal cation
+metal=Pb
+
+#DFT functional
+func=PBE
+
+#number of k-points
+kpoints=180
+
+#orbital contributions
+contvar=p
+conts=s
+contp=p
